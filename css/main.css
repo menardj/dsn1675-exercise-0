@@ -1,0 +1,33 @@
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: purple;
+}
+
+blockquote footer {
+    text-align: right;
+}
+
+
+dl {
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+dt {
+    float: left;
+    clear: left;
+    width: 8rem;
+}
+
+dd {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
